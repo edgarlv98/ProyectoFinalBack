@@ -1,6 +1,6 @@
 Back end proyecto final
 
-En este proyectos se encuentran todas las rutas y funciones que se utilizaron para que el front pueda funcionar y se pueda comnicar 
+En este proyecto se encuentran todas las rutas y funciones que se utilizaron para que el front pueda funcionar y se pueda comnicar 
 con la API y la base de datos.
 
 Las rutas de usuario nos ayudan tanto a crear un usurio como a eliminarlo.
